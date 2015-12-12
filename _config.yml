@@ -1,7 +1,7 @@
 name: ElijahSamuels
 favicon: null
-layout_spectrum: 0.11753583792597055
-typography_spectrum: 0.5520543330349028
+layout_spectrum: 0.49085
+typography_spectrum: 1
 title: 'Elijah Samuels - Musician, Composer & Educator '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6009297680575401
-  lightness: 0.7948768762871623
-  saturation: 0.9384979566093534
-  rhythmicContrast: 0.2826795212458819
+  brandStrength: 0.875
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
