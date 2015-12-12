@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T21:13:51.398Z'
-dateModified: '2015-12-12T21:13:35.121Z'
+datePublished: '2015-12-12T21:20:49.759Z'
+dateModified: '2015-12-12T21:20:44.139Z'
 title: Discography
 author: []
+sourcePath: _posts/2015-12-12-discography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-discography.md
-published: true
 url: discography/index.html
-_type: WebPage
+_type: Article
 
 ---
 2015 | [RobThomasMusic.com][0]
