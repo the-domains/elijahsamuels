@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T21:20:49.759Z'
-dateModified: '2015-12-12T21:20:44.139Z'
+datePublished: '2015-12-12T22:00:21.262Z'
+dateModified: '2015-12-12T22:00:07.412Z'
 title: Discography
 author: []
 sourcePath: _posts/2015-12-12-discography.md
@@ -22,19 +22,8 @@ url: discography/index.html
 _type: Article
 
 ---
-2015 | [RobThomasMusic.com][0]
-
-2015 | [JasonKlobnak.com][1]
-
-2015 | [JoeSmithAndTheSpicyPickles.com][2]
-
-2013 | [JasonKlobnak.com][1]
-
-2010 | [Quijerema.com][3]
-
-2009 | [Musae.org][4]
-
-2009 | [ThisIsBulk][5]
+2015 | [RobThomasMusic.com][0]2015 | [JasonKlobnak.com][1]2015 | [JoeSmithAndTheSpicyPickles.com][2]2013 | [JasonKlobnak.com][1]2010 | [Quijerema.com][3]2009 | [Musae.org][4]2009 | [ThisIsBulk][5]
+null
 
 [0]: http://www.robthomasmusic.com/
 [1]: http://jasonklobnak.com/
