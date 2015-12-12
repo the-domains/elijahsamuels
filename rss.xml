@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Elijah Samuels - Musician, Composer & Educator ]]></title>
         <description><![CDATA[Elijah Samuels - Musician, Composer & Educator ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elijahsamuels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 21:18:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 21:20:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elijahsamuels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discography]]></title>
+            <description><![CDATA[<article><h1>Discography</h1><p>2015 | RobThomasMusic.com</p></article>]]></description>
+            <link>https://thegrid.ai/elijahsamuels/discography/index.html</link>
+            <guid isPermaLink="false">94d330a8-e5fc-4992-b394-fd3c69954d9e</guid>
+            <pubDate>Sat, 12 Dec 2015 21:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Homepage]]></title>
             <description><![CDATA[<h1>Homepage</h1>]]></description>
-            <link>undefinedhomepage/index.html</link>
+            <link>https://thegrid.ai/elijahsamuels/homepage/index.html</link>
             <guid isPermaLink="false">734bfe67-6eba-47a4-a163-a0039ccaef4a</guid>
             <pubDate>Sat, 12 Dec 2015 21:17:41 GMT</pubDate>
         </item>
